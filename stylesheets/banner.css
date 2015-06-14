@@ -1,0 +1,40 @@
+/* code your banner design here */
+#banner {
+  /*background-image: url("https://d2mbntyfvvb037.cloudfront.net/static/video_home/video_7.jpg");
+  */
+  color: white;
+  padding-top: 10em;
+  background-size: cover;
+  height: 650px;
+}
+
+#banner h1 {
+  font-size: 3em;
+  text-shadow: 2px 2px #4C4646;
+}
+
+#banner p {
+  font-size: 1em;
+  text-shadow: 1px 1px #4C4646;
+}
+
+#awesome_video {
+  background-image: url("https://d2mbntyfvvb037.cloudfront.net/static/video_home/video_7.jpg");
+  position: fixed;
+  overflow: hidden;
+  z-index: -99;
+  top: 0;
+  left: 0;
+}
+
+@media (max-width: 1200px){
+   #awesome_video { height: 650px; }
+   #banner h1 { font-size: 3em; }
+   #banner p { font-size: 1em; }
+}
+
+@media (min-width: 1200px){
+   #awesome_video { width: 100%; }
+   #banner h1 { font-size: 5em; }
+   #banner p { font-size: 2em; }
+}
