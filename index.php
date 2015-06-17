@@ -113,14 +113,14 @@
   <div class="blue-bg padded-two">
     <div class="container text-center">
       <div class="row">
-        <div class="col-xs-12 col-sm-6 col-md-6" data-sr="move 16px scale up 20%, over 2s">
+        <div class="col-xs-12 col-sm-6 col-md-6">
           <div class="card marginal">
             <img src="./images/learn.svg" width="100px" height="100px">
             <h2>Get experience</h2>
             <p class="text-justify">You'll get a steep learning curve with in-house <strong>android</strong> and <strong> back-end development</strong>. Our webservices are already set up and you'll be able to learn about OAuth, Validation, REST, SQL-injection, MySQL, Json-parsing, Android mobile development, GitHub,... </p>
           </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-6" data-sr="move 16px scale up 20%, over 2s">
+        <div class="col-xs-12 col-sm-6 col-md-6">
           <div class="card marginal">
             <img src="./images/rocket2.svg" width="100px" height="100px">
 
@@ -128,7 +128,7 @@
             <p class="text-justify">We are already pitching for seed-money to <strong>business angels</strong>, we've gone through the entire business modeling with the Founder Institute bootcamp, etc... it has been critized and evaluated by a lot of people, and we still believe the project is a valid one!</p>
           </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-6" data-sr="move 16px scale up 20%, over 2s">
+        <div class="col-xs-12 col-sm-6 col-md-6">
           <div class="card marginal">
             <img src="./images/money3.svg" width="100px" height="100px">
 
@@ -136,7 +136,7 @@
             <p class="text-justify">Our thorough market analysis has shown a potential targetable market of <strong>at least 500 million EUR</strong> and targets hundreds of millions of people worldwide every year</p>
           </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-6" data-sr="move 16px scale up 20%, over 2s">
+        <div class="col-xs-12 col-sm-6 col-md-6">
           <div class="card marginal">
             <img src="./images/handss.png" width="100px" height="100px">
             <h2>Don't go short on your investment</h2>
